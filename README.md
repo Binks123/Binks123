@@ -25,7 +25,7 @@
 
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Binks123&show_icons=true&include_all_commits=true&theme=buefy" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binks123&layout=compact&theme=buefy&hide_border=true" />|
+| <img src="https://github-readme-stats.vercel.app/api?username=Binks123&show_icons=true&include_all_commits=true&theme=transparent&hide_border=True" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binks123&layout=compact&theme=transparent&hide_border=true" />|
 | ------------- | ------------- |
 
 <img  align="right" height="300" src="./images/1.gif">
