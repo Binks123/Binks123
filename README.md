@@ -27,10 +27,10 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=Binks123&show_icons=true&include_all_commits=true&theme=transparent&hide_border=True" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binks123&layout=compact&theme=transparent&hide_border=true" />|
 | ------------- | ------------- |
 
-<details>
-  <summary>More stats</summary>
+
+
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Binks123&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=white" alt="Ashutosh's github activity graph">
-</details>
+
 
 <div align="center" >
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
