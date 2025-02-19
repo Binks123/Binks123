@@ -6,10 +6,9 @@
 </div>
 
 ### **About Me**
+
 👋I'm Binks123, a computer enthusiast and GISer. <br/>
 ✨Let's learn and progress together! 
-
-
 
 ### **Skills**
 
@@ -22,20 +21,15 @@
 ![Csharp](https://img.shields.io/badge/CSHARP-grey?style=for-the-badge&logo=cSHARP)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
 
+| <img src="https://github-readme-stats.vercel.app/api?username=Binks123&show_icons=true&include_all_commits=true&theme=transparent&hide_border=True" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binks123&layout=compact&theme=transparent&hide_border=true" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-
-| <img src="https://github-readme-stats.vercel.app/api?username=Binks123&show_icons=true&include_all_commits=true&theme=transparent&hide_border=True" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binks123&layout=compact&theme=transparent&hide_border=true" />|
-| ------------- | ------------- |
-
-
-
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Binks123&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=white" alt="Ashutosh's github activity graph">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binks123&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=white" alt="Ashutosh's github activity graph">
 
 <div align="center" >
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="10%" alt="Star-Struck"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart To You" width="10%" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="10%" />
 </div>
