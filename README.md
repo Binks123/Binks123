@@ -8,7 +8,7 @@
 ### **About Me**
 
 👋I'm Binks123, a computer enthusiast and GISer. <br/>
-✨Let's learn and progress together!
+✨Let's learn and progress together! 
 
 ### **Skills**
 
