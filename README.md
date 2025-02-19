@@ -8,7 +8,7 @@
 ### **About Me**
 
 👋I'm Binks123, a computer enthusiast and GISer. <br/>
-✨Let's learn and progress together! 
+✨Let's learn and progress together!
 
 ### **Skills**
 
@@ -28,8 +28,8 @@
 
 <div align="center" >
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="10%" alt="Star-Struck"/>
-     
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart To You" width="10%" />
-     
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="10%" />
 </div>
