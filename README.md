@@ -1,13 +1,13 @@
 <!-- <img align="right" src="https://count.getloli.com/get/@:Binks123?theme=asoul"> -->
 
-<img  align="right" height="150" width="150" src="./images/globe.gif">
+
 <div align="center">
    <h1>Hi there, I'm Binks123</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 ### **About Me**
 
-👋I'm Binks123, a computer enthusiast and GISer. <br/>
+👋I'm Binks123, a computer enthusiast. <br/>
 ✨Let's learn and progress together! 
 
 ### **Skills**
